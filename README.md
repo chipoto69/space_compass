@@ -39,8 +39,8 @@ Advanced astrological and human design application that combines traditional ast
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd enhanced-astro
+git clone https://github.com/chipoto69/space_compass.git
+cd space_compass
 ```
 
 2. **Install dependencies**
